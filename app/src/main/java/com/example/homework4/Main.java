@@ -2,7 +2,7 @@ package com.example.homework4;
 
 public class Main {
     public static void main(String[] args) {
-   /*     Phone firstPhone = new Phone(2736989,"Nokia", 170);
+       Phone firstPhone = new Phone(2736989,"Nokia", 170);
         Phone secondPhone = new Phone(5194899,"Honor", 160);
         Phone thirdPhone = new Phone(7153789,"Apple", 150);
 
@@ -19,7 +19,7 @@ public class Main {
         secondPhone.receiveCall("Oleg", 5194899);
         thirdPhone.receiveCall("Oleg", 7153789);
 
-        firstPhone.sendMessage(secondPhone.getNumber()); */
+        firstPhone.sendMessage(secondPhone.getNumber());
 
         Crow crow = new Crow();
         crow.fly();
