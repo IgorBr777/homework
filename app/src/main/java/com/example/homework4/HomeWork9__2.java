@@ -3,7 +3,7 @@ package com.example.homework4;
 import java.util.Arrays;
 import java.util.Random;
 
-public class HomeWork9_2 {
+public class HomeWork9__2 {
 
     public static void main(String[] args) {
         Task_1();
@@ -103,18 +103,5 @@ public class HomeWork9_2 {
         }
     }
 
+
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
